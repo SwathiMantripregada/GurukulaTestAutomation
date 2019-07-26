@@ -1,0 +1,7 @@
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\bin\Debug\netstandard2.0\Test.Automation.Repository.dll
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\bin\Debug\netstandard2.0\Test.Framework.Generic.dll
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\bin\Debug\netstandard2.0\Test.Automation.Repository.pdb
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\obj\Debug\netstandard2.0\Test.Framework.Helper.csprojAssemblyReference.cache
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\obj\Debug\netstandard2.0\Test.Framework.Helper.csproj.CoreCompileInputs.cache
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\obj\Debug\netstandard2.0\Test.Framework.Helper.AssemblyInfoInputs.cache
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Test.Framework.Helper\obj\Debug\netstandard2.0\Test.Framework.Helper.AssemblyInfo.cs

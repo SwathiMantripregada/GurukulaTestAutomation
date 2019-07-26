@@ -1,0 +1,9 @@
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\bin\Debug\netstandard2.0\Gurukula.Web.Tests.deps.json
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\bin\Debug\netstandard2.0\Gurukula.Web.Tests.dll
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\bin\Debug\netstandard2.0\Gurukula.Web.Tests.pdb
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\obj\Debug\netstandard2.0\Gurukula.Web.Tests.csprojAssemblyReference.cache
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\obj\Debug\netstandard2.0\Gurukula.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\obj\Debug\netstandard2.0\Gurukula.Web.Tests.AssemblyInfoInputs.cache
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\obj\Debug\netstandard2.0\Gurukula.Web.Tests.AssemblyInfo.cs
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\obj\Debug\netstandard2.0\Gurukula.Web.Tests.dll
+C:\Users\swathi.mantripregada\Documents\Visual Studio 2017\Projects\GurukulaTestAutomation\Gurukula.Web.Tests\obj\Debug\netstandard2.0\Gurukula.Web.Tests.pdb
